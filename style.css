@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+.head{
+background: #072E33;
+color:#ADD8E6;
+padding: 50px;
+}
+
+span{
+  color: #FFA500
+}
+.para1{
+  font: size:14px
+}
+
+body{
+  background: #ADD8E6;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+
